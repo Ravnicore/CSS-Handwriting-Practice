@@ -35,7 +35,7 @@ class App extends Component {
         <div className="content">
           <div className="centeredContent">
             <Name />
-            <h1 className="happyText">Look at the beautiful waterfalls!</h1>
+            <h1 className="happyText">Look at the beautiful waterfall!</h1>
             <div className="abutton">
               <PauseButton toggleVideo={this.toggleVideo.bind(this)}/>
             </div>
