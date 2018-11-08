@@ -1,0 +1,114 @@
+.logo-container {
+    display: flex;
+
+    background: #111;
+    width: 100%;
+    height: 100vh;
+}
+
+
+.christina {
+    display: block;
+    margin: 0 auto;
+    width: 20rem;
+}
+
+.christina-path {
+    stroke: white;
+    stroke-dasharray: 2600;
+    stroke-dashoffset: 2600;
+    stroke-width: 30;
+}
+
+.christina-path--c-1-1 {
+    animation: letter-animation 1.5s linear forwards 2s;
+}
+
+.christina-path--h-1-1 {
+    animation: christina-other-letters 1.5s linear forwards 2.4s;
+}
+
+.christina-path--h-1-2 {
+    animation: christina-other-letters 1.5s linear forwards 2.6s;
+}
+
+.christina-path--r-1-1 {
+    animation: christina-other-letters 1.5s linear forwards 2.8s;
+}
+
+.christina-path--i-1-1 {
+    animation: christina-other-letters 1.5s linear forwards 3.0s;
+}
+
+.christina-path--s-1-1 {
+    animation: christina-other-letters 1.5s linear forwards 3.2s;
+}
+
+.christina-path--t-1-1 {
+    stroke-width: 18;
+    animation: christina-other-letters 1.5s linear forwards 3.4s;
+}
+
+.christina-path--t-1-2 {
+    stroke-width: 22;
+    animation: christina-other-letters 1.5s linear forwards 3.6s;
+}
+
+.christina-path--i-2-1 {
+    animation: christina-other-letters 1.5s linear forwards 3.8s;
+}
+
+.christina-path--n-1-1 {
+    animation: christina-other-letters 1.5s linear forwards 4.0s;
+}
+
+.christina-path--n-1-1 {
+    animation: christina-other-letters 1.5s linear forwards 4.1s;
+}
+
+.christina-path--n-1-2 {
+    animation: christina-other-letters 1.5s linear forwards 4.2s;
+}
+
+.christina-path--a-1-1 {
+    animation: christina-other-letters 1.5s linear forwards 4.3s;
+}
+
+.christina-path--a-1-2 {
+    animation: christina-other-letters 1.5s linear forwards 4.4s;
+}
+
+.christina-path--i-dot-1 {
+    stroke-width: 40;
+    animation: christina-other-letters 2.5s linear forwards 4.6s;
+}
+
+.christina-path--i-dot-2 {
+    stroke-width: 40;
+    animation: christina-other-letters 2.5s linear forwards 4.7s;
+}
+
+.christina-path--t-dash {
+    stroke-width: 40;
+    animation: christina-other-letters 2.5s linear forwards 4.8s;
+}
+
+
+@keyframes letter-animation {
+    0% {
+        stroke-dashoffset: 2600;
+    }
+    100% {
+        stroke-dashoffset: 0;
+    }
+}
+
+@keyframes christina-other-letters {
+    0% {
+        stroke-dashoffset: 2600;
+    }
+    
+    100% {
+        stroke-dashoffset: 0;
+    }
+}

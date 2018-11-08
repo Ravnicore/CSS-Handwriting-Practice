@@ -1,0 +1,55 @@
+[33mcommit e78a1e831cbb1e40d8b437d29c58323556ca043c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Reflog: HEAD@{0} (Ravnicore <kevin.m.kelly@live.com>)
+Reflog message: reset: moving to HEAD
+Author: Ravnicore <kevin.m.kelly@live.com>
+Date:   Thu Nov 8 16:45:42 2018 -0500
+
+    first commit
+
+[33mcommit e78a1e831cbb1e40d8b437d29c58323556ca043c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Reflog: HEAD@{1} (Ravnicore <kevin.m.kelly@live.com>)
+Reflog message: commit: first commit
+Author: Ravnicore <kevin.m.kelly@live.com>
+Date:   Thu Nov 8 16:45:42 2018 -0500
+
+    first commit
+
+[33mcommit c3b12be05cd40367dfe272d820b6a534dc90dfec[m
+Reflog: HEAD@{2} (Ravnicore <kevin.m.kelly@live.com>)
+Reflog message: commit: first commit
+Author: Ravnicore <kevin.m.kelly@live.com>
+Date:   Thu Nov 8 16:41:18 2018 -0500
+
+     first commit
+
+[33mcommit ec96d2ac4390600cbc0d452e857caf76f040a823[m
+Reflog: HEAD@{3} (Ravnicore <kevin.m.kelly@live.com>)
+Reflog message: commit: first commit
+Author: Ravnicore <kevin.m.kelly@live.com>
+Date:   Thu Nov 8 16:30:06 2018 -0500
+
+    first commit
+
+[33mcommit 9b8df0474353be323b8d8e2c56140d8d5c459954[m
+Reflog: HEAD@{4} (Ravnicore <kevin.m.kelly@live.com>)
+Reflog message: commit: first commit
+Author: Ravnicore <kevin.m.kelly@live.com>
+Date:   Thu Nov 8 16:17:36 2018 -0500
+
+    first commit
+
+[33mcommit c83446416b41b4296abf258637d063731249fd6b[m
+Reflog: HEAD@{5} (Ravnicore <kevin.m.kelly@live.com>)
+Reflog message: commit: initial commit
+Author: Ravnicore <kevin.m.kelly@live.com>
+Date:   Thu Nov 8 15:56:52 2018 -0500
+
+    initial commit
+
+[33mcommit 227ece8733d1c889970080332f054a26b423c069[m
+Reflog: HEAD@{6} (Ravnicore <kevin.m.kelly@live.com>)
+Reflog message: commit (initial): Initial commit from Create React App
+Author: Ravnicore <kevin.m.kelly@live.com>
+Date:   Tue Nov 6 14:54:17 2018 -0500
+
+    Initial commit from Create React App
