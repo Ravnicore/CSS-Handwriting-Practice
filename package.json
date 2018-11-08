@@ -2,7 +2,7 @@
   "name": "christina-landing-page",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://gitname.Ravnicore.io/CSS-Handwriting-Practice",
+  "homepage": "http://Ravnicore.github.io/CSS-Handwriting-Practice",
   "dependencies": {
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
@@ -20,7 +20,7 @@
     "extends": "react-app"
   },
   "devDependencies": {
-    "gh-pages": "^1.1.0"
+    "gh-pages": "^1.2.0"
   },
   "browserslist": [
     ">0.2%",
