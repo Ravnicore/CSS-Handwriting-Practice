@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 // import WaterfallFootage from './Outside-Files/Waterfalls_cross_transitions_no-audio.mp4';
-import WaterfallFootage from './Outside-Files/TinyTestVideo.mp4';
+import WaterfallFootage from './Outside-Files/Waterfalls1.mp4';
 import PauseButton from './Components/PauseButton/PauseButton.js';
 import Name from './Components/Christina-Name/name.js';
 import './App.css';
