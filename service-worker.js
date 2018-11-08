@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/CSS-Handwriting-Practice/precache-manifest.42e665e1e404f806fe16909c094c35b3.js"
+  "/CSS-Handwriting-Practice/precache-manifest.840d51cf8e85147f9f29593fcab553b1.js"
 );
 
 workbox.clientsClaim();
